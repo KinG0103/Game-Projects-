@@ -18,7 +18,7 @@ public class StartGamePanel extends JPanel{
     public StartGamePanel(Game theGame)
     {
         gameWindow = theGame;
-        init();
+        initScreens();
     }
     
     private void init()
